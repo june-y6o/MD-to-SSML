@@ -1,0 +1,1 @@
+export { md2ssml } from './md2ssml'
